@@ -1,0 +1,5 @@
+
+javac -cp hibernatejar\* *.java
+
+
+java -cp hibernatejar\*;. MainFrame
